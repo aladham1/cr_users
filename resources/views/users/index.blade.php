@@ -323,7 +323,7 @@
                                     <td>{{$user->email}}</td>
                                     <td>{{$user->password_a}}</td>
                                     <td>{{$user->phone}}</td>
-                                    <td>{{$user->email}}</td>
+                                    <td>{{$user->country}}</td>
                                 </tr>
                             @endforeach
 
